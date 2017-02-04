@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Zach Gulnick)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(5 summaries of concepts from lesson 3, about version control.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to setup a Github repository.)
+2. (How Git came about.)
+3. (How to push a local repository to Github.)
